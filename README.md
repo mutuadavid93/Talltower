@@ -32,3 +32,7 @@ A sophisticated TALL Stack dashboard template that combines beautiful design wit
     -   [Install AlpineJS](https://alpinejs.dev/essentials/installation#as-a-module)
 
 - TIP: Remember to initialize AlpineJS
+
+
+FACT: When creating custom Livewire Pages, Always go to Filament Section on 
+`Adding a [X] to a Livewire component`
